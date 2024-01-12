@@ -1,6 +1,6 @@
 # SeHeal_apps
 
-A new Flutter project.
+SeHeal is an innovative product that helps users monitor their health conditions and allows users to regularly monitor their health and that of their beloved family. SeHeal makes it easy for users to view health data in Real-Time, facilitating a better understanding of the information provided.
 
 # Application Display
 | Homepage | Activity Tracker |
