@@ -5,7 +5,7 @@ A new Flutter project.
 # Application Display
 | Homepage | Activity Tracker |
 |----------|-------------------|
-| <img src="https://github.com/Fadhelikhsan/seheal_apps/assets/155938694/6c999c14-9f21-4878-8bda-29c1534593bb" alt="HomePage" width="200" height="150"> | <img src="https://github.com/Fadhelikhsan/seheal_apps/assets/155938694/07a34c96-886e-401e-9069-6445f6bb51a0" alt="Activity Tracker" width="200" height="150"> |
+| <img src="https://github.com/Fadhelikhsan/seheal_apps/assets/155938694/6c999c14-9f21-4878-8bda-29c1534593bb" alt="HomePage" width="270" height="630"> | <img src="https://github.com/Fadhelikhsan/seheal_apps/assets/155938694/07a34c96-886e-401e-9069-6445f6bb51a0" alt="Activity Tracker" width="270" height="630"> |
 
 ## Getting Started
 
