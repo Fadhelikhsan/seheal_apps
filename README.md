@@ -1,11 +1,13 @@
-# seheal_apps
+# SeHeal_apps
 
 A new Flutter project.
-| Nama  | Usia | Kota      |
+
+# Application Display
+| HomePage  | Activity Tracker | 
 |-------|------|-----------|
-| John  | 25   | New York  |
-| Alice | 30   | San Fran  |
-| Bob   | 22   | Seattle   |
+| ![HomePage](https://github.com/Fadhelikhsan/seheal_apps/assets/155938694/6c999c14-9f21-4878-8bda-29c1534593bb)
+  | ![Activity Tracker](https://github.com/Fadhelikhsan/seheal_apps/assets/155938694/07a34c96-886e-401e-9069-6445f6bb51a0)
+   |
 
 ## Getting Started
 
