@@ -3,11 +3,10 @@
 A new Flutter project.
 
 # Application Display
-| HomePage  | Activity Tracker | 
-|-------|------|-----------|
-| ![HomePage](https://github.com/Fadhelikhsan/seheal_apps/assets/155938694/6c999c14-9f21-4878-8bda-29c1534593bb)
-  | ![Activity Tracker](https://github.com/Fadhelikhsan/seheal_apps/assets/155938694/07a34c96-886e-401e-9069-6445f6bb51a0)
-   |
+| Homepage | Activity Tracker |
+|---------------------|---------------------|
+| <img src="![HomePage](https://github.com/Fadhelikhsan/seheal_apps/assets/155938694/6c999c14-9f21-4878-8bda-29c1534593bb)" alt="Gambar 1" width="200" height="150"> | <img src=" ![Activity Tracker](https://github.com/Fadhelikhsan/seheal_apps/assets/155938694/07a34c96-886e-401e-9069-6445f6bb51a0)" alt="Gambar 2" width="200" height="150"> |
+
 
 ## Getting Started
 
