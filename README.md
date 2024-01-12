@@ -1,6 +1,11 @@
 # seheal_apps
 
 A new Flutter project.
+| Nama  | Usia | Kota      |
+|-------|------|-----------|
+| John  | 25   | New York  |
+| Alice | 30   | San Fran  |
+| Bob   | 22   | Seattle   |
 
 ## Getting Started
 
