@@ -55,7 +55,7 @@ class DefaultFirebaseOptions {
 
   static const FirebaseOptions android = FirebaseOptions(
     apiKey: 'AIzaSyAEe5BAjxp6z8d6nMcWMOEEDjDk1VEPu70',
-    appId: '1:266678081974:android:03912fa4cfe885a2214917',
+    appId: '1:266678081974:android:9d788405da3446c7214917',
     messagingSenderId: '266678081974',
     projectId: 'seheal-bdc3e',
     storageBucket: 'seheal-bdc3e.appspot.com',
@@ -63,19 +63,19 @@ class DefaultFirebaseOptions {
 
   static const FirebaseOptions ios = FirebaseOptions(
     apiKey: 'AIzaSyBmdLBIUIeGQvYCtIfxX37rFzUwF5akhu8',
-    appId: '1:266678081974:ios:ad7bce3f337cb532214917',
+    appId: '1:266678081974:ios:095184d57fec646a214917',
     messagingSenderId: '266678081974',
     projectId: 'seheal-bdc3e',
     storageBucket: 'seheal-bdc3e.appspot.com',
-    iosBundleId: 'com.example.sehealApps',
+    iosBundleId: 'com.codeforany.fitness',
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
     apiKey: 'AIzaSyBmdLBIUIeGQvYCtIfxX37rFzUwF5akhu8',
-    appId: '1:266678081974:ios:6d8f335ad2e6d61d214917',
+    appId: '1:266678081974:ios:7e8a1fb57a3874a4214917',
     messagingSenderId: '266678081974',
     projectId: 'seheal-bdc3e',
     storageBucket: 'seheal-bdc3e.appspot.com',
-    iosBundleId: 'com.example.sehealApps.RunnerTests',
+    iosBundleId: 'com.codeforany.fitnessWorkoutAppFlutter3Ui.RunnerTests',
   );
 }

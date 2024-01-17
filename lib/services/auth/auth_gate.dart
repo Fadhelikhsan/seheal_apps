@@ -1,7 +1,8 @@
 import 'package:firebase_auth/firebase_auth.dart';
+import 'package:fitness/services/auth/login_or_reg.dart';
+import 'package:fitness/view/main_tab/main_tab_view.dart';
 import 'package:flutter/material.dart';
-import 'package:seheal_apps/screen/home-screen.dart';
-import 'package:seheal_apps/services/auth/login_or_register.dart';
+
 
 class AuthGate extends StatelessWidget {
   const AuthGate({super.key});
@@ -13,7 +14,7 @@ class AuthGate extends StatelessWidget {
         stream: FirebaseAuth.instance.authStateChanges(),
         builder: (context, snapshot) {
           if (snapshot.hasData) {
-            return const HomePage();
+            return const MainTabView();
           } else {
             return const LoginOrRegister();
           }
